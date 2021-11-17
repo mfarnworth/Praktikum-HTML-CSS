@@ -1,0 +1,48 @@
+/* Used colours for backgrounds:
+3C6DC2
+728CBA
+325AA1
+A1C3FF
+223E6E
+ */
+
+.title{ /* Stylizes every element of the type h1 */
+    padding: 30px;
+    /*border: 5px solid #223E6E;*/
+    font-size: 45px;
+    background-color: #325AA1;
+    color: #ffffff;
+}
+h2 { /* Stylizes every element of the type h2 */
+    padding: 25px;
+    background-color: #3C6DC2;
+    color: #ffffff;
+}
+
+h3{
+    padding: 22px;
+    background-color: #728CBA;
+    color: #ffffff;
+}
+
+.mainText { /* .whatever is a class. Use for multiple elements of the same class in .HTML */
+    padding: 20px;
+    font-size: 18px;
+    /*width: 500px;*/
+    background-color: #A1C3FF;
+    color: #000000;
+}
+
+#myName{ /* #whatever is an id. Use for single element of the same id in .HTML */
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #223E6E;
+    color: #ffffff;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%;*/
+}
